@@ -10,12 +10,12 @@
 
 <i>A curated list of awesome Clones</i>
 
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/Envoy-VC"><img src="https://img.shields.io/github/stars/Envoy-VC?style=social" alt="Stars Badge"/></a>
+<a href="https://github.com/Envoy-VC"><img src="https://img.shields.io/github/forks/Envoy-VC/awesome-clones" alt="Forks Badge"/></a>
+<a href="https://github.com/Envoy-VC"><img src="https://img.shields.io/github/issues-pr/Envoy-VC/awesome-clones" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/Envoy-VC"><img src="https://img.shields.io/github/issues/Envoy-VC/awesome-clones" alt="Issues Badge"/></a>
+<a href="https://github.com/Envoy-VC"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Envoy-VC/awesome-clones?color=2b9348"></a>
+<a href="https://github.com/Envoy-VC/awesome-clones/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Envoy-VC/awesome-clones?color=2b9348" alt="License Badge"/></a>
 
 
 | Clone of                       | Demo                                                                                                                   | Repo                                                                                                                   | Tech stack                                             | Repo Stars                                                                                                                                                                                     |
@@ -151,7 +151,7 @@
 | Zapier                         | https://n8n.io/                                                                                                        | https://github.com/n8n-io/n8n                                                                                          | Typescript, Vue, Docker                                | ![GitHub Repo stars](https://img.shields.io/github/stars/n8n-io/n8n)                                                                                                                           |
 | Zapier                         | https://vimeo.com/61976251                                                                                             | https://github.com/huginn/huginn                                                                                       | Ruby                                                   | ![GitHub Repo stars](https://img.shields.io/github/stars/huginn/huginn)                                                                                                                        |
 
-_Some link is broken or clone is not good enough? [report it](https://github.com/GorvGoyl/Clone-Wars/issues/new)_
+_Some link is broken or clone is not good enough? [report it](https://github.com/Envoy-VC/awesome-clones/issues/new)_
 
 ---
 
@@ -161,10 +161,10 @@ _Some link is broken or clone is not good enough? [report it](https://github.com
 
 _(Note: project must have at least minimal functionality, please do not submit any 'UI only' clone)_
 
-- Add your contribution to [readme.md](https://github.com/GorvGoyl/Clone-Wars/blob/main/README.md) (_you may use online md editor like [markdown.site](https://markdown.site/) for better table visualization_) and send me a PR! (_faster approval and your name would be added to project contributors_)
+- Add your contribution to [readme.md](https://github.com/Envoy-VC/awesome-clones/blob/main/README.md) (_you may use online md editor like [markdown.site](https://markdown.site/) for better table visualization_) and send me a PR! (_faster approval and your name would be added to project contributors_)
 
 OR
 
-- Create a [new issue](https://github.com/GorvGoyl/Clone-Wars/issues/new) with following details: clone name, code repo link, demo link, and tech stack used.
+- Create a [new issue](https://github.com/Envoy-VC/awesome-clones/issues/new) with following details: clone name, code repo link, demo link, and tech stack used.
 
 Any other feedback is also welcome :)
