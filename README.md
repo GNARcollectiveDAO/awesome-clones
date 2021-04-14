@@ -14,7 +14,7 @@
 <a href="https://github.com/Envoy-VC"><img src="https://img.shields.io/github/issues-pr/Envoy-VC/awesome-clones" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/Envoy-VC"><img src="https://img.shields.io/github/issues/Envoy-VC/awesome-clones" alt="Issues Badge"/></a>
 <a href="https://github.com/Envoy-VC"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Envoy-VC/awesome-clones?color=2b9348"></a>
-<a href="https://github.com/Envoy-VC/awesome-clones/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Envoy-VC/awesome-clones?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/Envoy-VC/awesome-clones/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Envoy-VC/awesome-clones" alt="License Badge"/></a>
 
 
 | Clone of                       | Demo                                                                                                                   | Repo                                                                                                                   | Tech stack                                             | Repo Stars                                                                                                                                                                                     |
